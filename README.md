@@ -1,3 +1,4 @@
+# Francisco Antonio Cuellar Sifuentes
 #Para esta actividad trabajaremos con una base de datos de calificaciones de estudiantes. Nos interesa tratar de predecir la calificación final de estudiantes de un curso, en base a su información demográfica y sus calificaciones de los primeros dos períodos semestrales.
 
 #Utilizaremos el archivo “A1.5 Calificaciones.csv”, donde podremos encontrar información de 395 estudiantes, con 10 variables en total. Los datos se descargaron del Student Performance Data Set en el UCI Machine Learning Repository.
