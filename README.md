@@ -13,4 +13,4 @@
 
 [Codigo.jpynb](./A1.5_ Solución de problemas.ipynb)
 
-[Base de Datos](./A1.5 Calificaciones.xls)
+[Base de Datos](./A1.5_Calificaciones.xls)
